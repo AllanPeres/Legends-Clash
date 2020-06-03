@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 4ce872f198b1eb947bb76846c0a0a8ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7500194211050218379
+    second: ui panels walnut_0
+  - first:
+      213: 5470838953155391825
+    second: ui panels walnut_1
+  - first:
+      213: -7544609370566154562
+    second: ui panels walnut_2
+  - first:
+      213: -997232091986801866
+    second: ui panels walnut_3
+  - first:
+      213: -1873708759575732049
+    second: ui panels walnut_4
+  - first:
+      213: 1813280912721529316
+    second: ui panels walnut_5
+  - first:
+      213: 3769675279851504048
+    second: ui panels walnut_6
+  - first:
+      213: 327769565806744273
+    second: ui panels walnut_7
+  - first:
+      213: -1630830099823792573
+    second: ui panels walnut_8
+  - first:
+      213: -1623648259512319327
+    second: ui panels walnut_9
+  - first:
+      213: 2849126727274360951
+    second: ui panels walnut_10
+  - first:
+      213: 8131107383011988821
+    second: ui panels walnut_11
+  - first:
+      213: 820047256981919707
+    second: ui panels walnut_12
+  - first:
+      213: 361809900220332069
+    second: ui panels walnut_13
+  - first:
+      213: 9125440313339232609
+    second: ui panels walnut_14
+  - first:
+      213: -4996351249713872224
+    second: ui panels walnut_15
+  - first:
+      213: 3663303867735373588
+    second: ui panels walnut_16
+  - first:
+      213: -8259506136455791900
+    second: ui panels walnut_17
+  - first:
+      213: -1851087443806313423
+    second: ui panels walnut_18
+  - first:
+      213: -2982631770196464524
+    second: ui panels walnut_19
+  - first:
+      213: 5777878095665745317
+    second: ui panels walnut_20
+  - first:
+      213: -2490259299542038108
+    second: ui panels walnut_21
+  - first:
+      213: 4628840948976112509
+    second: ui panels walnut_22
+  - first:
+      213: -7318729020042404369
+    second: ui panels walnut_23
+  - first:
+      213: 2218521355514480267
+    second: ui panels walnut_24
+  - first:
+      213: -2752426904056014337
+    second: ui panels walnut_25
+  - first:
+      213: 1046647874343429269
+    second: ui panels walnut_26
+  - first:
+      213: -8980504449192914873
+    second: ui panels walnut_27
+  - first:
+      213: -7649628574145958828
+    second: ui panels walnut_28
+  - first:
+      213: -8157959524662850113
+    second: ui panels walnut_29
+  - first:
+      213: 1154918902839064219
+    second: ui panels walnut_30
+  - first:
+      213: 8010224749467817478
+    second: ui panels walnut_31
+  - first:
+      213: 3475118017679945907
+    second: ui panels walnut_32
+  - first:
+      213: 9156927609862686902
+    second: ui panels walnut_33
+  - first:
+      213: -1768892179554472662
+    second: ui panels walnut_34
+  - first:
+      213: -4671730501095323281
+    second: ui panels walnut_35
+  - first:
+      213: -2245537034517090211
+    second: ui panels walnut_36
+  - first:
+      213: -680647284601421589
+    second: ui panels walnut_37
+  - first:
+      213: 8716586128325518126
+    second: ui panels walnut_38
+  - first:
+      213: 2084511204031530182
+    second: ui panels walnut_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui panels walnut_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e610b5ea061860800000000000000
+      internalID: 7500194211050218379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 944
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151723aca035ceb40800000000000000
+      internalID: 5470838953155391825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1032
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6225220c92c4790800000000000000
+      internalID: -7544609370566154562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1048
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bc18622be1922f0800000000000000
+      internalID: -997232091986801866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa063fc7fcf3ff5e0800000000000000
+      internalID: -1873708759575732049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e943c802611a2910800000000000000
+      internalID: 1813280912721529316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ce16c1b3905430800000000000000
+      internalID: 3769675279851504048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2581afea87c8400800000000000000
+      internalID: 327769565806744273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eecfa2aa02e59e0800000000000000
+      internalID: -1630830099823792573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2469ba284a779e0800000000000000
+      internalID: -1623648259512319327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7707243c9a12a8720800000000000000
+      internalID: 2849126727274360951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1040
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555cfa951f77d070800000000000000
+      internalID: 8131107383011988821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1048
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7d07ba2a4616b00800000000000000
+      internalID: 820047256981919707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_13
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1048
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5283ad2ff28650500800000000000000
+      internalID: 361809900220332069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 552
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614d97cd9314ae70800000000000000
+      internalID: 9125440313339232609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1040
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2c9bb920569aab0800000000000000
+      internalID: -4996351249713872224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1020
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177eac657ba6d230800000000000000
+      internalID: 3663303867735373588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 980
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eab46cfde6506d80800000000000000
+      internalID: -8259506136455791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_18
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 984
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342dbff6cd9f46e0800000000000000
+      internalID: -1851087443806313423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 984
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c25a925309b96d0800000000000000
+      internalID: -2982631770196464524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 936
+        width: 22
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adcaa7f3852f2050800000000000000
+      internalID: 5777878095665745317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_21
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 993
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90f2c6c52d07dd0800000000000000
+      internalID: -2490259299542038108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_22
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 993
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d0858152fc3040800000000000000
+      internalID: 4628840948976112509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 992
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed97098bb6ae6a90800000000000000
+      internalID: -7318729020042404369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 992
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b860f0a2b65c9ce10800000000000000
+      internalID: 2218521355514480267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_25
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 992
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95381505a6dc9d0800000000000000
+      internalID: -2752426904056014337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 992
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594682342b0768e00800000000000000
+      internalID: 1046647874343429269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1001
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7409a02c8c6de5380800000000000000
+      internalID: -8980504449192914873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_28
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 994
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c2a5e575f07d590800000000000000
+      internalID: -7649628574145958828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_29
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 993
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc478f80b19ce80800000000000000
+      internalID: -8157959524662850113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 936
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963b148f98170010800000000000000
+      internalID: 1154918902839064219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_31
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 923
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606521b38f80a2f60800000000000000
+      internalID: 8010224749467817478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 924
+        width: 120
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07f54dc691a3030800000000000000
+      internalID: 3475118017679945907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_33
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 912
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b805db4521f31f70800000000000000
+      internalID: 9156927609862686902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 640
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d60b74fe1a377e0800000000000000
+      internalID: -1768892179554472662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_35
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 888
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f690bd37cddaa2fb0800000000000000
+      internalID: -4671730501095323281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 883
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ff97e6ff36d0e0800000000000000
+      internalID: -2245537034517090211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_37
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 888
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be08fff96eadd86f0800000000000000
+      internalID: -680647284601421589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a0f8b6e887f870800000000000000
+      internalID: 8716586128325518126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui panels walnut_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 32
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c40f9655ebadec10800000000000000
+      internalID: 2084511204031530182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
